@@ -1,6 +1,6 @@
 ### Hi, I'm Chave 👋
 关于我:
-- 职业: 还在学Java/Python/Go的普普通通安全工程师
+- 职业: 普普通通安全工程师
 - 技能: 一点点Java/一点点Python/一点点Go
 - 邮箱: chennehc1024@gmail.com
 
